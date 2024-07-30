@@ -1,0 +1,70 @@
+body {
+  background-color:rgb(95, 124, 145);
+  width:40%;
+}
+
+#header {
+  padding:10px;
+  margin-bottom:10px;
+  margin-left:80px;
+  background-color:#99ffff;
+  border-radius:10px;
+  text-align: center;
+  font-size:40px;
+  font-family:Times;
+  width:200%;
+  }
+
+table {
+  width:200%;
+  font-size:10pt;
+  font-family:Times;
+  margin-bottom:10px;
+}
+table,td {
+  border:2px solid rgb(0,150,255);
+  border-collapse:collapse ;
+  /* table-layout:fixed; */
+  table-layout: auto;
+  text-align:center;
+  border-radius:10px;
+}
+td{
+  width:100px;
+}
+.selyel {
+  background-color:yellow;
+}
+.selred {
+  background-color:red;
+}
+.selsky {
+  background-color:#00ffff;
+}
+.seltra {
+  background-color:#ffcc99;
+}
+.selbla {
+  background-color:#666;
+}
+.selblan {
+  background-color:#999;
+}
+.selmetalloid {
+  background-color:#996633;
+}
+.sellan {
+  background-color:#9999ff;
+}
+.selact {
+  background-color:#ff66ff;
+}
+.selmeh {
+ background-color:#cc9900;
+}
+
+#specific {
+  padding-top:10px;
+  width:147.5%;
+  margin-left:300px;
+}
